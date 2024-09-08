@@ -1,1 +1,7 @@
 streamlit
+pandas
+python-docx
+PyPDF2
+textblob
+google-generativeai
+json-repair
